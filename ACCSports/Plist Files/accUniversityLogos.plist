@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Boston College</key>
+	<string>bc</string>
+	<key>Clemson University</key>
+	<string>clemson</string>
+	<key>Duke University</key>
+	<string>duke</string>
+	<key>Florida State University</key>
+	<string>fsu</string>
+	<key>Georgia Institute of Technology</key>
+	<string>gt</string>
+	<key>North Carolina State University</key>
+	<string>ncsu</string>
+	<key>Syracuse University</key>
+	<string>syracuse</string>
+	<key>University of Louisville</key>
+	<string>louisville</string>
+	<key>University of Miami</key>
+	<string>umiami</string>
+	<key>University of North Carolina</key>
+	<string>unc</string>
+	<key>University of Notre Dame</key>
+	<string>und</string>
+	<key>University of Pittsburgh</key>
+	<string>pitt</string>
+	<key>University of Virginia</key>
+	<string>uva</string>
+	<key>Virginia Tech</key>
+	<string>vt</string>
+	<key>Wake Forest University</key>
+	<string>wfu</string>
+</dict>
+</plist>
